@@ -1,16 +1,30 @@
-# React + Vite
+# Agency.ai – Responsive Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Agency.ai is a modern, responsive landing page designed to showcase digital services with clarity and impact. The project focuses on clean UI, reusable components, and conversion-driven design to deliver a seamless user experience.
 
-Currently, two official plugins are available:
+### Live Demo
+https://agency-ai-pink.vercel.app/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Preview
+![Agency.ai Preview](./src/assets/Project_Preview.png)
 
-## React Compiler
+### Features
+- Fully responsive design across all devices  
+- Clean and modern UI/UX  
+- Reusable and well-structured components  
+- Smooth navigation and layout flow  
+- Integrated animations to enhance user interaction and visual appeal  
+- Contact form powered by Web3Forms for seamless form submission without backend setup  
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### Tech Stack
+- React.js
+- Tailwind CSS
+- Framer Motion
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### What I Learned
+- Developed a strong understanding of building responsive layouts using modern CSS techniques
+- Improved ability to structure clean and maintainable UI components
+- Gained experience in designing user-centric interfaces with a focus on usability and visual hierarchy
+- Learned how to organize content effectively for landing pages to improve engagement and conversion
+- Strengthened skills in writing scalable and readable frontend code
+- Practiced translating design concepts into functional web interfaces
