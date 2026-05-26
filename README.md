@@ -9,22 +9,22 @@ https://agency-ai-pink.vercel.app/
 ![Agency.ai Preview](./src/assets/Project_Preview.png)
 
 ### Features
-- Fully responsive design across all devices  
-- Clean and modern UI/UX  
-- Reusable and well-structured components  
-- Smooth navigation and layout flow  
-- Integrated animations to enhance user interaction and visual appeal  
-- Contact form powered by Web3Forms for seamless form submission without backend setup  
+- Modern UI Development – Built a clean and interactive user interface using React.js component-based architecture.
+- Responsive Design – Ensures seamless performance across all devices and screen sizes using Tailwind CSS mobile-first responsive design.
+- Interactive Animations – Enhanced user engagement and visual appeal using Framer Motion animations.
+- Contact Form Integration – Enables seamless client inquiry and request submission using Web3Forms API integration without backend setup.
+- Real-Time Notifications – Displays instant form submission success messages using React Hot Toast.
 
 ### Tech Stack
 - React.js
 - Tailwind CSS
 - Framer Motion
+- Web3forms
+- React-hot-toast
 
 ### What I Learned
-- Developed a strong understanding of building responsive layouts using modern CSS techniques
-- Improved ability to structure clean and maintainable UI components
-- Gained experience in designing user-centric interfaces with a focus on usability and visual hierarchy
-- Learned how to organize content effectively for landing pages to improve engagement and conversion
-- Strengthened skills in writing scalable and readable frontend code
-- Practiced translating design concepts into functional web interfaces
+- Building responsive, mobile-first web interfaces using Tailwind CSS.
+- Developing reusable and scalable UI components with React.
+- Integrating third-party form handling services like Web3Forms for seamless contact form submissions.
+- Implementing real-time user feedback with React Hot Toast.
+- Creating smooth and engaging user interactions using Framer Motion.
